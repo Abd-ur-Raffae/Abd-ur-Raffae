@@ -53,8 +53,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Quality is not an act, it is a habit."*
-> **— Aristotle**
+> ### *"Slow is smooth, and smooth is fast — in automation too."*
+> **— Anonymous**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
