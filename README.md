@@ -132,22 +132,22 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username={{GITHUB_USERNAME}}&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{GITHUB_USERNAME}}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username={{Abd-ur-Raffae}}&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{Abd-ur-Raffae}}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user={{GITHUB_USERNAME}}&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user={{Abd-ur-Raffae}}&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username={{GITHUB_USERNAME}}&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username={{Abd-ur-Raffae}}&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies" />
 
 </div>
 
 <!-- Contribution snake — needs the snake.yml workflow (included) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/{{GITHUB_USERNAME}}/{{GITHUB_USERNAME}}/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/{{Abd-ur-Raffae}}/{{Abd-ur-Raffae}}/output/snake.svg" alt="Snake animation" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
