@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B+I'm+{{Abdur-Raffae Masood}};QA+Automation+Engineer+%7C+SDET;Playwright+%2B+AI+Agents+%2B+MCP;Frontend+Dev+%7C+DevOps+Enthusiast;Breaking+things+so+users+don't+have+to+%F0%9F%92%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B+I'm+{{Abdur Raffae}};QA+Automation+Engineer+%7C+SDET;Playwright+%2B+AI+Agents+%2B+MCP;Frontend+Dev+%7C+DevOps+Enthusiast;Breaking+things+so+users+don't+have+to+%F0%9F%92%A5" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username={{Abd-ur-Raffae}}&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username={{GITHUB_USERNAME}}&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
 &nbsp;
 <img src="https://img.shields.io/badge/Role-QA%20Automation%20Engineer-36BCF7?style=for-the-badge&logo=testcafe&logoColor=white" alt="Role badge" />
 
