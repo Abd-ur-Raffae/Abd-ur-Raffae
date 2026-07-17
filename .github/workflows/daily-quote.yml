@@ -1,0 +1,37 @@
+name: Daily Dev & QA Quote
+
+on:
+  schedule:
+    # Runs every day at 00:15 UTC. Adjust the cron if you want a different time.
+    - cron: "15 0 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update the daily quote
+        run: python scripts/update_quote.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git add README.md
+            git commit -m "chore: update daily dev & QA quote 💬"
+            git push
+          else
+            echo "No quote change today."
+          fi
