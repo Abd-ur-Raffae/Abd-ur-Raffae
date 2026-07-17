@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username={{GITHUB_USERNAME}}&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username={{Abd-ur-Raffae}}&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
 &nbsp;
 <img src="https://img.shields.io/badge/Role-QA%20Automation%20Engineer-36BCF7?style=for-the-badge&logo=testcafe&logoColor=white" alt="Role badge" />
 
@@ -35,7 +35,6 @@ role:        "QA Automation Engineer / SDET"
 currently:   "Building AI-assisted QA pipelines with Playwright + MCP"
 focus:       "Test automation, self-healing suites, CI/CD quality gates"
 learning:    "{{WHAT_YOU_ARE_LEARNING}}"
-fun_fact:    "{{A_FUN_FACT}}"
 ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 ```
 
