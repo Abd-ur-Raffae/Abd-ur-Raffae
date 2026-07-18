@@ -140,8 +140,6 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abd-ur-Raffae&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies" />
-
 </div>
 
 <!-- Contribution snake — needs the snake.yml workflow (included) -->
