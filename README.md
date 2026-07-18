@@ -132,9 +132,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username={{Abd-ur-Raffae}}&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{Abd-ur-Raffae}}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
+<img height="180em" src="https://github-readme-stats-two-delta-51.vercel.app/api?username=Abd-ur-Raffae&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats-two-delta-51.vercel.app/api/top-langs/?username=Abd-ur-Raffae&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 <br/>
 
 <img src="https://streak-stats.demolab.com?user={{Abd-ur-Raffae}}&theme=tokyonight&hide_border=true" alt="GitHub streak" />
