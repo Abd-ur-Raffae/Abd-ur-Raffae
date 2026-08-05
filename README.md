@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Quality is not an act, it is a habit."*
-> **— Aristotle**
+> ### *"Testing leads to failure, and failure leads to understanding."*
+> **— Burt Rutan**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
