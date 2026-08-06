@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Testing leads to failure, and failure leads to understanding."*
-> **— Burt Rutan**
+> ### *"If debugging is the process of removing software bugs, then programming must be the process of putting them in."*
+> **— Edsger W. Dijkstra**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
