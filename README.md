@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"The bitterness of poor quality remains long after the sweetness of meeting the schedule has been forgotten."*
-> **— Karl Wiegers**
+> ### *"It's not a bug — it's an undocumented feature."*
+> **— Anonymous**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
