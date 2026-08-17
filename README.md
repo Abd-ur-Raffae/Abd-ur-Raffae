@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Simplicity is the soul of efficiency."*
-> **— Austin Freeman**
+> ### *"First, solve the problem. Then, write the code."*
+> **— John Johnson**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
