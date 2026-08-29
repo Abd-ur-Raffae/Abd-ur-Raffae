@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Ship it green, or don't ship it."*
-> **— CI Culture**
+> ### *"Every bug you find in staging is a bug your users didn't."*
+> **— QA Truth**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
