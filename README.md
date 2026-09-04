@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Fast feedback loops turn debugging from hours into minutes."*
-> **— DevOps Wisdom**
+> ### *"Write tests. Not too many. Mostly integration."*
+> **— Guillermo Rauch**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
