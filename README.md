@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Perfect is the enemy of shipped, but broken is the enemy of trust."*
-> **— Engineering Wisdom**
+> ### *"A test suite you don't trust is a test suite you don't have."*
+> **— Anonymous**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
