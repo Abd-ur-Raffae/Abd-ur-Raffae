@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"A test suite you don't trust is a test suite you don't have."*
-> **— Anonymous**
+> ### *"Prompt like an engineer: be specific, give examples, iterate."*
+> **— AI-Assisted QA**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
