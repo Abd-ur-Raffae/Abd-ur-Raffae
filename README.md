@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Prompt like an engineer: be specific, give examples, iterate."*
-> **— AI-Assisted QA**
+> ### *"Quality is not an act, it is a habit."*
+> **— Aristotle**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
