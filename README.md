@@ -52,7 +52,7 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"If debugging is the process of removing software bugs, then programming must be the process of putting them in."*
+> ### *"Program testing can be used to show the presence of bugs, but never to show their absence."*
 > **— Edsger W. Dijkstra**
 <!-- QUOTE:END -->
 
