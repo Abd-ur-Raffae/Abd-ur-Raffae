@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Program testing can be used to show the presence of bugs, but never to show their absence."*
-> **— Edsger W. Dijkstra**
+> ### *"The bitterness of poor quality remains long after the sweetness of meeting the schedule has been forgotten."*
+> **— Karl Wiegers**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
