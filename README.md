@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-> **— Martin Fowler**
+> ### *"Make it work, make it right, make it fast."*
+> **— Kent Beck**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
