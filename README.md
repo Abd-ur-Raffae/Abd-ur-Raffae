@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"First, solve the problem. Then, write the code."*
-> **— John Johnson**
+> ### *"Code without tests is broken by design."*
+> **— Jacob Kaplan-Moss**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
