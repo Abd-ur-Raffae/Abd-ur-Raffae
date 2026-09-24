@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Code without tests is broken by design."*
-> **— Jacob Kaplan-Moss**
+> ### *"Testing shows the presence, not the absence, of bugs."*
+> **— Dijkstra & Hoare**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
