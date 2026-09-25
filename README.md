@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Testing shows the presence, not the absence, of bugs."*
-> **— Dijkstra & Hoare**
+> ### *"Quality means doing it right when no one is looking."*
+> **— Henry Ford**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
