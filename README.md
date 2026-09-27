@@ -52,7 +52,7 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"If you don't like testing your product, most likely your customers won't like to test it either."*
+> ### *"Slow is smooth, and smooth is fast — in automation too."*
 > **— Anonymous**
 <!-- QUOTE:END -->
 
