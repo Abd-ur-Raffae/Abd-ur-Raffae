@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"A flaky test is worse than no test — it teaches you to ignore red."*
-> **— CI/CD Wisdom**
+> ### *"Don't fix a symptom, fix the root cause."*
+> **— DevOps Principle**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
