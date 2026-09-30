@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Don't fix a symptom, fix the root cause."*
-> **— DevOps Principle**
+> ### *"The most disastrous thing you can ever learn is your first programming language."*
+> **— Alan Kay**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
