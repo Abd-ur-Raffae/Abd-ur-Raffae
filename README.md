@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Continuous improvement is better than delayed perfection."*
-> **— Mark Twain**
+> ### *"Ship it green, or don't ship it."*
+> **— CI Culture**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
