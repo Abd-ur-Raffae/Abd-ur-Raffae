@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Automation is good, so long as you know exactly where to put the machine."*
-> **— Eliyahu Goldratt**
+> ### *"Talk is cheap. Show me the code."*
+> **— Linus Torvalds**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
