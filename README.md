@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"A good tester doesn't just find bugs, they prevent them."*
-> **— Anonymous**
+> ### *"Automate the boring, so you can focus on the tricky."*
+> **— SDET Mantra**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
