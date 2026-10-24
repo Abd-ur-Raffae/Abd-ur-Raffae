@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Automate the boring, so you can focus on the tricky."*
-> **— SDET Mantra**
+> ### *"The best error message is the one that never shows up."*
+> **— Thomas Fuchs**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
