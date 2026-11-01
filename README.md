@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Quality means doing it right when no one is looking."*
-> **— Henry Ford**
+> ### *"If you don't like testing your product, most likely your customers won't like to test it either."*
+> **— Anonymous**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
