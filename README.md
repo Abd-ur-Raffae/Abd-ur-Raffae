@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"In God we trust; all others must bring data."*
-> **— W. Edwards Deming**
+> ### *"The goal of a tester is to break the software before the user does."*
+> **— Anonymous**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
