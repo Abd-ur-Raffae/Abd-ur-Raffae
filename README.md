@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"The goal of a tester is to break the software before the user does."*
-> **— Anonymous**
+> ### *"Fast feedback loops turn debugging from hours into minutes."*
+> **— DevOps Wisdom**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
