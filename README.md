@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"Write tests. Not too many. Mostly integration."*
-> **— Guillermo Rauch**
+> ### *"The strength of the team is each individual member. The strength of each member is the team."*
+> **— Phil Jackson**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
