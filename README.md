@@ -52,8 +52,8 @@ ask_me_about: ["Playwright", "AI test agents", "CI/CD", "frontend testing"]
 <div align="center">
 
 <!-- QUOTE:START -->
-> ### *"The strength of the team is each individual member. The strength of each member is the team."*
-> **— Phil Jackson**
+> ### *"Perfect is the enemy of shipped, but broken is the enemy of trust."*
+> **— Engineering Wisdom**
 <!-- QUOTE:END -->
 
 <sub>⏱️ Auto-refreshed every day via GitHub Actions</sub>
